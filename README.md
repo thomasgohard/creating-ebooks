@@ -2,6 +2,8 @@
 
 ## Creating the ebook package
 
+**Note:** A sample ebook package is provided in the `sample-ebook-package` folder. This sample package contains everything below.
+
 1. Create a new folder. This will be the root of your new ebook. Everything in `this style` and any
 	```xml
 	code

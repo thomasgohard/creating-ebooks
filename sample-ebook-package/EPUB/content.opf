@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="ebookID">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:identifier id="ebookID"></dc:identifier>
+		<dc:title></dc:title>
+		<dc:language></dc:language>
+		<meta property="dcterms:modified"></meta>
+	</metadata>
+	<manifest>
+		<item id="" href="" media-type=""/>
+	</manifest>
+	<spine>
+		<itemref idref=""/>
+	</spine>
+</package>
